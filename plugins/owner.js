@@ -6,7 +6,7 @@ const ownerContact = async (m, gss) => {
 const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(' ')[0].toLowerCase() : '';
 const text = m.body.slice(prefix.length + cmd.length).trim();
 
-    if (cmd === 'owner') {
+    if (cmd === 'CYBER X THENULA') {
         try {
             await gss.sendContact(m.from, [ownernumber], m);
             await m.React("✅");
