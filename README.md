@@ -20,12 +20,12 @@
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j)
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{JAWAD-MD}/count.svg" alt="XdTechPro :: Visitor's Count" old_src="https://profile-counter.glitch.me/{XdTechPro}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{SONIC-MD}/count.svg" alt="XdTechPro :: Visitor's Count" old_src="https://profile-counter.glitch.me/{XdTechPro}/count.svg" /></p>
 
 
 <p align="center">
-<a href="https://github.com/XdTechPro/JAWAD-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=JAWAD-MD&label=VIEWS&style=square&color=blue" />
+<a href="https://github.com/XdTechPro/SONIC-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=SONIC-MD&label=VIEWS&style=square&color=blue" />
 </p>
 </p> 
 
@@ -38,7 +38,7 @@
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/XdTechPro/JAWAD-MD/fork"><img title="JAWAD-MD" src="https://img.shields.io/badge/FORK-KHAN MD-h?color=green&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/XdTechPro/SONIC-MD/fork"><img title="JAWAD-MD" src="https://img.shields.io/badge/FORK-SONIC MD-h?color=green&style=for-the-badge&logo=stackshare"></a>
 
 > Get Pair Code (Session ID)
 
@@ -51,7 +51,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 </p>  
 
 
-🚀 Deploy JAWAD-MD
+🚀 Deploy SONIC-MD
 
 > Deploy on Heroku
 
