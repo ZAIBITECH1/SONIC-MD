@@ -66,9 +66,9 @@ const test = async (m, Matrix) => {
   const validCommands = ['list', 'help', 'menu'];
 
   if (validCommands.includes(cmd)) {
-    const str = `╭━━━〔 *JAWAD-MD* 〕━━━┈⊷
+    const str = `╭━━━〔 *SONIC-MD* 〕━━━┈⊷
 ┃★╭──────────────
-┃★│ Owner : *KHAN-MD*
+┃★│ Owner : *SONIC-MD*
 ┃★│ User : *${m.pushName}*
 ┃★│ Baileys : *Multi Device*
 ┃★│ Type : *NodeJs*
@@ -188,7 +188,7 @@ const test = async (m, Matrix) => {
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363316555500484@newsletter',
-          newsletterName: "JawadTechX",
+          newsletterName: "SONIC-MD",
           serverMessageId: 143
         }
       }
@@ -198,7 +198,7 @@ const test = async (m, Matrix) => {
 
     // Send audio after sending the menu
     await Matrix.sendMessage(m.from, {
-      audio: { url: 'https://github.com/XdTechPro/KHAN-DATA/raw/refs/heads/main/autovoice/menunew.m4a' },
+      audio: { url: 'https://files.catbox.moe/cy4nsm.mp3' },
       mimetype: 'audio/mp4',
       ptt: true
     }, { quoted: m });
