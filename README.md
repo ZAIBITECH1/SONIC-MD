@@ -30,7 +30,7 @@
 </p> 
 
 <p align="center">
-  <a href="https://github.com/XdTechPro/JAWAD-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v3.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/XdTechPro/SONIC-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v3.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 
@@ -98,10 +98,10 @@ Start by forking this repository to your own GitHub account. Click the button be
 ---
 
 🏆 Credits & Contributors
-> JAWAD-MD Owner 
+> SONIC-MD Owner 
 - [JawadTechX](https://github.com/XdTechPro)
 - Creater and Owner Of JAWAD-MD
-> JAWAD-MD Helpers 
+> SONIC-MD Helpers 
 - [ROMEKTRICKS](https://github.com/ROMEKTRICKS)
 - For helping in bot plugin files.
   
